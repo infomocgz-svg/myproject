@@ -11,7 +11,7 @@ int main()
 	z1 = 2 * x;
 	z2 = x + x;
 	cout << endl;
-	cout<<"Result: " << endl;
+	cout<<"Result22: " << endl;
 	cout << "z_1 = " << z1 << endl;
 	cout << "z_2 = " << z2 << endl;
 	cin.get();
