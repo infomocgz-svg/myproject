@@ -17,3 +17,4 @@ int main()
 	return 0;
 }
 // Зміна у main
+// Друга зміна у main
