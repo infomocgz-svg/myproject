@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	double x; // вхідний параметр
+	double x; 
 	double z1; // результат обчислення 1-го виразу
 	double z2; // результат обчислення 2-го виразу
 	cout << "My program" << endl;
