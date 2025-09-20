@@ -16,5 +16,9 @@ int main()
 	cin.get();
 	return 0;
 }
+<<<<<<< HEAD
 // Зміна у main
 // Друга зміна у main
+=======
+// Додаємо функцію для feature
+>>>>>>> ea24e01 (feature: додано функцію)
